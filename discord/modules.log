@@ -1,0 +1,41 @@
+2023-07-15T00:09:17.452Z [Modules] Modules initializing
+2023-07-15T00:09:17.452Z [Modules] Distribution: remote
+2023-07-15T00:09:17.453Z [Modules] Host updates: enabled
+2023-07-15T00:09:17.453Z [Modules] Module updates: enabled
+2023-07-15T00:09:17.453Z [Modules] Module install path: /home/santy/.config/discord/0.0.27/modules
+2023-07-15T00:09:17.453Z [Modules] Module installed file path: /home/santy/.config/discord/0.0.27/modules/installed.json
+2023-07-15T00:09:17.453Z [Modules] Module download path: /home/santy/.config/discord/0.0.27/modules/pending
+2023-07-15T00:09:17.614Z [Modules] Bootstrapping...
+2023-07-15T00:09:17.615Z [Modules] Installing discord_desktop_core@0 from /usr/lib64/discord/resources/bootstrap/discord_desktop_core.zip
+2023-07-15T00:09:17.616Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/usr/lib64/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-07-15T00:09:17.617Z [Modules] Installing discord_erlpack@0 from /usr/lib64/discord/resources/bootstrap/discord_erlpack.zip
+2023-07-15T00:09:17.618Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/usr/lib64/discord/resources/bootstrap/discord_erlpack.zip'
+2023-07-15T00:09:17.618Z [Modules] Installing discord_spellcheck@0 from /usr/lib64/discord/resources/bootstrap/discord_spellcheck.zip
+2023-07-15T00:09:17.619Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/usr/lib64/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-07-15T00:09:17.619Z [Modules] Installing discord_utils@0 from /usr/lib64/discord/resources/bootstrap/discord_utils.zip
+2023-07-15T00:09:17.620Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/usr/lib64/discord/resources/bootstrap/discord_utils.zip'
+2023-07-15T00:09:17.620Z [Modules] Installing discord_voice@0 from /usr/lib64/discord/resources/bootstrap/discord_voice.zip
+2023-07-15T00:09:17.621Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/usr/lib64/discord/resources/bootstrap/discord_voice.zip'
+2023-07-15T00:09:17.621Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-07-15T00:09:17.621Z [Modules] Checking for host updates.
+2023-07-15T00:09:17.877Z [Modules] Host update is available. Manual update required!
+2023-07-15T00:09:47.484Z [Modules] Modules initializing
+2023-07-15T00:09:47.485Z [Modules] Distribution: remote
+2023-07-15T00:09:47.485Z [Modules] Host updates: enabled
+2023-07-15T00:09:47.485Z [Modules] Module updates: enabled
+2023-07-15T00:09:47.485Z [Modules] Module install path: /home/santy/.config/discord/0.0.27/modules
+2023-07-15T00:09:47.485Z [Modules] Module installed file path: /home/santy/.config/discord/0.0.27/modules/installed.json
+2023-07-15T00:09:47.485Z [Modules] Module download path: /home/santy/.config/discord/0.0.27/modules/pending
+2023-07-15T00:09:47.633Z [Modules] No updates to install
+2023-07-15T00:09:47.634Z [Modules] Checking for host updates.
+2023-07-15T00:09:47.933Z [Modules] Host update is available. Manual update required!
+2023-07-15T00:10:49.780Z [Modules] Modules initializing
+2023-07-15T00:10:49.781Z [Modules] Distribution: remote
+2023-07-15T00:10:49.781Z [Modules] Host updates: enabled
+2023-07-15T00:10:49.781Z [Modules] Module updates: enabled
+2023-07-15T00:10:49.781Z [Modules] Module install path: /home/santy/.config/discord/0.0.27/modules
+2023-07-15T00:10:49.781Z [Modules] Module installed file path: /home/santy/.config/discord/0.0.27/modules/installed.json
+2023-07-15T00:10:49.781Z [Modules] Module download path: /home/santy/.config/discord/0.0.27/modules/pending
+2023-07-15T00:10:49.925Z [Modules] No updates to install
+2023-07-15T00:10:49.925Z [Modules] Checking for host updates.
+2023-07-15T00:10:50.316Z [Modules] Host update is available. Manual update required!
